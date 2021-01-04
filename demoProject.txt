@@ -10,4 +10,7 @@ This is a demo project that was added to the first git project.
 -- line five
 -- line six
 -- line seven
+
+-- more lines
+-- more and more lines
 All done. Done done.
